@@ -4,17 +4,17 @@ Hi, I'm Layla.
 
 ## I've completed **CS Foundation** and I'm currently taking **Exploring CS**
 
-## 🛠️ What I'm Working On
+## What I'm Working On
 - Building small web projects to practice programming skills
 - Learning bash for automation and system administration
 - Exploring how technology can solve everyday problems
 
-## 📚 Current Learning Goals
+## Current Learning Goals
 - Get comfortable with Git and GitHub workflows
 - Build my first interactive website
 - Understand how users interact with technology
 
-## 🌱 Looking Forward To
+## Looking Forward To
 - Contributing to beginner-friendly open source projects
 - Creating tools that help students like me
 - Learning more about UI/UX design
